@@ -1,0 +1,159 @@
+.jumbotron {
+    margin-bottom: 0px;
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    min-height: 200px;
+}
+div.p1{
+	min-height:500px;
+	min-width: 700px;
+	height:auto;
+	background-image: url("./image/16-top-travel-hacks-for-flying.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	object-fit: cover;
+	filter: blur(0px);
+}
+h1{
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	font-size: 10 px;
+}
+h1.heading{
+	font-family: 'Pacifico';
+	font-size:100px;
+	color: MistyRose;
+}
+h1.heading1{
+	font-family: 'Pacifico';
+	font-size:50px;
+	color: LavenderBlush;
+}
+h1.heading2{
+	font-family: 'Pacifico';
+	font-size:60px;
+	color: LightCoral;
+}
+h1.heading3{
+	font-family: 'Pacifico';
+	font-size:50px;
+	color: DarkGrey;
+}
+h1.heading4{
+	font-family: 'Pacifico';
+	font-size:40px;
+	color: RosyBrown;
+}
+h2{
+	font-weight: bold;
+	text-align: center;
+	font-size: 10px;
+}
+h2.ab{
+	font-family: 'Abril Fatface';
+	font-size:50px;
+	color: Indigo;
+}
+h2.a{
+	font-family: 'Abril Fatface';
+	font-size:30px;
+	color: black;
+}
+h3{
+	font-weight: bold;
+	text-align: center;
+	font-size: 10px;
+}
+h3.ab{
+	font-family: 'Abril Fatface';
+	font-size:50px;
+	color: Indigo;
+}
+h3.a{
+	font-family: 'Abril Fatface';
+	font-size:30px;
+	color: black;
+}
+h3.b{
+	font-family: 'Abril Fatface';
+	font-size:25px;
+	color: RebeccaPurple;
+}
+h4{
+	font-weight: bold;
+	text-align: center;
+	font-size: 10px;
+}
+h4.ab{
+	font-family: 'Abril Fatface';
+	font-size:50px;
+	color: Indigo;
+}
+h4.a{
+	font-family: 'Abril Fatface';
+	font-size:30px;
+	color: black;
+}
+h4.b{
+	font-family: 'Abril Fatface';
+	font-size:25px;
+	color: RebeccaPurple;
+}
+h5{
+	font-weight: bold;
+	text-align: center;
+	font-size: 10px;
+}
+h5.ab{
+	font-family: 'Abril Fatface';
+	font-size:50px;
+	color: Indigo;
+}
+h5.a{
+	font-family: 'Abril Fatface';
+	font-size:30px;
+	color: black;
+}
+h5.b{
+	font-family: 'Abril Fatface';
+	font-size:25px;
+	color: RebeccaPurple;
+}
+h6{
+	font-weight: bold;
+	text-align: center;
+	font-size: 10px;
+}
+h6.ab{
+	font-family: 'Abril Fatface';
+	font-size:50px;
+	color: Indigo;
+}
+h6.a{
+	font-family: 'Abril Fatface';
+	font-size:30px;
+	text-align: left;
+	color: black;
+}
+h6.b{
+	font-family: 'Abril Fatface';
+	font-size:25px;
+	text-align: left;
+	color: RebeccaPurple;
+}
+.b1{
+	background-color: 'grey';
+}
+div.d1{
+	min-height:500px;
+	min-width: 700px;
+	height:auto;
+	background-image: url("./image/grey.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	object-fit: cover;
+	filter: blur(0px);
+}
