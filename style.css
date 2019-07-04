@@ -34,17 +34,17 @@ h1.heading1{
 }
 h1.heading2{
 	font-family: 'Pacifico';
-	font-size:60px;
+	font-size:50px;
 	color: LightCoral;
 }
 h1.heading3{
 	font-family: 'Pacifico';
-	font-size:50px;
+	font-size:40px;
 	color: DarkGrey;
 }
 h1.heading4{
 	font-family: 'Pacifico';
-	font-size:40px;
+	font-size:30px;
 	color: RosyBrown;
 }
 h2{
@@ -54,12 +54,12 @@ h2{
 }
 h2.ab{
 	font-family: 'Abril Fatface';
-	font-size:50px;
+	font-size:40px;
 	color: Indigo;
 }
 h2.a{
 	font-family: 'Abril Fatface';
-	font-size:30px;
+	font-size:25px;
 	color: black;
 }
 h3{
@@ -69,12 +69,12 @@ h3{
 }
 h3.ab{
 	font-family: 'Abril Fatface';
-	font-size:50px;
+	font-size:40px;
 	color: Indigo;
 }
 h3.a{
 	font-family: 'Abril Fatface';
-	font-size:30px;
+	font-size:25px;
 	color: black;
 }
 h3.b{
@@ -89,7 +89,7 @@ h4{
 }
 h4.ab{
 	font-family: 'Abril Fatface';
-	font-size:50px;
+	font-size:40px;
 	color: Indigo;
 }
 h4.a{
@@ -109,7 +109,7 @@ h5{
 }
 h5.ab{
 	font-family: 'Abril Fatface';
-	font-size:50px;
+	font-size:40px;
 	color: Indigo;
 }
 h5.a{
@@ -129,7 +129,7 @@ h6{
 }
 h6.ab{
 	font-family: 'Abril Fatface';
-	font-size:50px;
+	font-size:40px;
 	color: Indigo;
 }
 h6.a{
@@ -148,7 +148,7 @@ h6.b{
 	background-color: 'grey';
 }
 div.d1{
-	min-height:500px;
+	min-height:400px;
 	min-width: 700px;
 	height:auto;
 	background-image: url("./image/grey.jpg");
